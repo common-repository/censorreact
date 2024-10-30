@@ -1,0 +1,19 @@
+{
+    "name": "intygrate/basic-plugin-intygrate",
+    "description": "Basic Plugin Example",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Benjamin Chalke",
+            "email": "benjamin.chalke@intygrate.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Censorreact\\": "./inc"
+        }
+    }
+}
